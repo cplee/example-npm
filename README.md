@@ -18,3 +18,4 @@ For pushes to the _default_ branch (`master`), in addition to the above Actions,
 ## License
 
 This repository is [licensed under CC0-1.0](LICENSE), which waives all copyright restrictions.
+
